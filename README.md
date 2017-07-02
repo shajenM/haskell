@@ -1,0 +1,5 @@
+
+
+Projectecs for learning haskell
+
+
