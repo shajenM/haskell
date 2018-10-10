@@ -4,4 +4,4 @@ TOWER OF HANOI
 
 Simulation of solving the puzzle
 
-<img src="TowerHanoiSolution3.mp4" width="400">
+<img src="th.gif" width="400">
