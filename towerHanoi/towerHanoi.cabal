@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: b23683e18b47b98cc03e7d1242924614638102507fbda30929fe1000c611e633
+-- hash: b1817454c16cba163c6743e8931a579c173a4bde68a70b2f6dfdc94361b787f2
 
 name:           towerHanoi
 version:        0.1.0.0
@@ -26,7 +26,6 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
       SolutionToAnimation
       TowerAnimation
       TowerOfHanoi
