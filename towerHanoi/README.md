@@ -4,4 +4,4 @@ TOWER OF HANOI
 
 Simulation of solving the puzzle
 
-![](giphy.gif=100x100)
+![](giphy.gif =100x20)
